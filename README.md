@@ -1,0 +1,2 @@
+# doublespeak
+A dictionary translator
