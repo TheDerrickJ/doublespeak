@@ -1,0 +1,8 @@
+Pseudo-code for Doublespeak Dictionary
+
+This is a tool that people can type words into, and it will give the definition.
+
+
+First, collect all the words in the double-speak dictionary.
+
+Then collect their definitions and match them up.
